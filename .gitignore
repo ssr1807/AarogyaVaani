@@ -1,0 +1,25 @@
+# Dependencies
+/node_modules
+/.pnp
+.pnp.*
+backend/__pycache__/
+backend/**/__pycache__/
+backend/venv/
+backend/env/
+
+# Next.js
+.next/
+/out/
+
+# Production builds
+/build
+
+# Misc
+.DS_Store
+*.pem
+
+# Environment files & Secrets (CRITICAL)
+.env
+.env.local
+.env.*
+backend/.env

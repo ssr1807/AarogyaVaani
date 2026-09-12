@@ -1,0 +1,2 @@
+-- Prototype-only prescriptions were removed after the patient app moved to health_records.
+-- Clinical originals belong in the private health-documents bucket with Storage RLS.

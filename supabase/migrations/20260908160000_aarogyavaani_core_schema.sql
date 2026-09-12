@@ -1,0 +1,3 @@
+-- AarogyaVaani core schema is deployed to the connected Supabase project.
+-- Keep this file as the repository record of the remote migration.
+-- See project migration history for the exact applied DDL.
